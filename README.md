@@ -4,6 +4,6 @@ This is my First Git Repository
 <br>
 This is my Second Git Repostory
 
-Author-Shahzaib
+Author-Shahzaib Munir
 
 
